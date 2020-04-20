@@ -1,0 +1,16 @@
+.title {
+  padding: 1%;
+  background-image: url("../img/blue_background.png");
+  /* background-color: rgba(111, 158, 207, .7); */
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.viz img {
+  height: 300px;
+  width: 400px;
+}

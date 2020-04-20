@@ -4,4 +4,4 @@
 
 
 
-![screenshot of the webpage](creative_dataviz.png)
+![screenshot of the webpage](img/creative_dataviz.png)
